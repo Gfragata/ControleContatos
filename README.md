@@ -14,4 +14,4 @@
 4-Inserir o token retornado na caixa de dialogo e clicar no botão "Authorize".
 
 # Contato
-Para mais informações, entre em contato atraves de gfragata97@gmail.com
+Para mais informações, entre em contato atraves do e-mail => gfragata97@gmail.com
