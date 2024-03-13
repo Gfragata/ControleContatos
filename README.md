@@ -1,9 +1,9 @@
-# ControleContatos
+# Controle Contatos
  Projeto do curso de java
 
  A API fara um cadastro de contatos para cada pessoa e disponibilizará o cadastro de pessoas.
 
-Como acessar?
+# Como acessar?
 
 1-Acessar pelo seguinte endereço =>  http://localhost:8081/swagger-ui/index.html
 
@@ -13,5 +13,5 @@ Como acessar?
 
 4-Inserir o token retornado na caixa de dialogo e clicar no botão "Authorize".
 
-Contato
+# Contato
 Para mais informações, entre em contato atraves de gfragata97@gmail.com
